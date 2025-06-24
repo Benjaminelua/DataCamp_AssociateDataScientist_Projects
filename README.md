@@ -4,7 +4,7 @@
 
 This project involves building a machine learning model to predict how many days a customer will rent a DVD from a movie rental company. Accurate predictions help the company optimize inventory management and reduce operational inefficiencies. The goal was to develop a regression model with a **Mean Squared Error (MSE) less than 3** on the test dataset.
 
-The project was completed as part of the [DataCamp Associate Data Scientist track]((https://www.datacamp.com/tracks/associate-data-scientist-with-python) using Python and various data science libraries.
+The project was completed as part of the [DataCamp Associate Data Scientist track](https://www.datacamp.com/tracks/associate-data-scientist-with-python) using Python and various data science libraries.
 
 ---
 
