@@ -42,10 +42,10 @@ The dataset (`penguins.csv`) contains information about various penguin characte
 
 ## 📦 Libraries Used
 
-- `pandas` – for data manipulation and analysis
-- `matplotlib.pyplot` – for optional visualizations
-- `sklearn.cluster.KMeans` – for clustering
-- `sklearn.preprocessing.StandardScaler` – for standardizing features
+- `pandas` : for data manipulation and analysis
+- `matplotlib.pyplot` : for optional visualizations
+- `sklearn.cluster.KMeans` : for clustering
+- `sklearn.preprocessing.StandardScaler` : for standardizing features
 
 ---
 
