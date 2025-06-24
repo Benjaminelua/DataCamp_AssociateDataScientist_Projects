@@ -46,10 +46,10 @@ Each row represents a field's soil metrics, and the crop that is best suited for
 
 ## 📦 Libraries Used
 
-- `pandas` – for data manipulation
-- `sklearn.linear_model.LogisticRegression` – for multi-class classification
-- `sklearn.model_selection.train_test_split` – to split training and testing data
-- `sklearn.metrics` – to evaluate model performance
+- `pandas` : for data manipulation
+- `sklearn.linear_model.LogisticRegression` : for multi-class classification
+- `sklearn.model_selection.train_test_split` : to split training and testing data
+- `sklearn.metrics` : to evaluate model performance
 
 ---
 
