@@ -1,12 +1,12 @@
 # 🐧 Clustering Antarctic Penguins with Unsupervised Learning
 
-This project explores unsupervised machine learning techniques to identify natural groupings in a dataset of penguins from Antarctica. You were tasked with supporting a research team by discovering clusters among penguins using physical measurements, since the actual species labels were unavailable.
+This project explores unsupervised machine learning techniques to identify natural groupings in a dataset of penguins from Antarctica. I was tasked with supporting a research team by discovering clusters among penguins using physical measurements, since the actual species labels were unavailable.
 
 ---
 
 ## 📄 Project Description
 
-The dataset (`penguins.csv`) contains information about various penguin characteristics but lacks labels for species. Your goal is to apply clustering techniques to uncover possible natural groupings, which could potentially correspond to species such as Adelie, Chinstrap, and Gentoo.
+The dataset (`penguins.csv`) contains information about various penguin characteristics but lacks labels for species. My goal is to apply clustering techniques to uncover possible natural groupings, which could potentially correspond to species such as Adelie, Chinstrap, and Gentoo.
 
 ### 📊 Dataset Overview
 
