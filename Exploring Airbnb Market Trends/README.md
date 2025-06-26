@@ -1,6 +1,6 @@
 # 🏙️ New York City Airbnb Market Analysis
 
-This project analyzes short-term rental data in New York City by merging and processing data from multiple sources and formats. The goal is to provide meaningful insights—especially around **private room listings**—for a real estate startup exploring Airbnb trends in NYC.
+This project analyzes short-term rental data in New York City by merging and processing data from multiple sources and formats. The goal is to provide meaningful insights (especially around **private room listings**) for a real estate startup exploring Airbnb trends in NYC.
 
 ---
 
