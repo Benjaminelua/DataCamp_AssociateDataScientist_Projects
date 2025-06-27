@@ -7,7 +7,6 @@ The **Nobel Prize** stands as one of the most prestigious international honors, 
 In this project, I performed a historical analysis of Nobel Prize winners from **1901 to 2023** using data obtained from the **Nobel Prize API**. The dataset includes details about each laureate, including their gender, birth country, prize category, and the year of their award. The main objective was to uncover interesting trends and patterns across decades, regions, and demographics.
 
 ---
-
 ## 🎯 Key Objectives
 
 This project focused on answering the following data-driven questions:
