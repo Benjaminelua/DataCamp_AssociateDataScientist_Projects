@@ -109,8 +109,7 @@ Each project folder contains:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/datacamp-projects-portfolio.git
-cd datacamp-projects-portfolio
+git clone https://github.com/Benjaminelua/DataCamp_AssociateDataScientist_Projects.git
 
 # Open Jupyter Notebook
 jupyter notebook
