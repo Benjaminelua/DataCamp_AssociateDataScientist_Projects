@@ -34,7 +34,6 @@ Both datasets contain key attributes including:
 ---
 
 ## ❓ Hypothesis Setup
-
 I formulated the following statistical hypotheses to guide my test, working at a **10% significance level (α = 0.10)**:
 
 - **Null Hypothesis (H₀):** The mean number of goals scored in women's international soccer matches is the same as in men's.
