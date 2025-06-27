@@ -9,7 +9,6 @@ Analyzing SAT results provides valuable insights for education policymakers, res
 ## 🧾 Project Objectives
 
 Using the `schools.csv` dataset, I answered three key questions:
-
 1. **Which NYC schools have the best math results?**
 2. **What are the top 10 performing schools based on total SAT scores?**
 3. **Which borough has the largest standard deviation in SAT performance?**
