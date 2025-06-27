@@ -42,7 +42,6 @@ The dataset was provided as a single CSV file: `car_insurance.csv`.
 ---
 
 ## 🎯 Objective
-
 - Identify the **single best predictive feature** for car insurance claims.
 - Evaluate each feature using a logistic regression model.
 - Calculate prediction **accuracy** for each feature.
