@@ -64,20 +64,6 @@ Focused the dataset on enterprise-relevant professionals by keeping:
 
 ---
 
-## 🧪 Result: Memory Usage Optimization
-
-After transformation, the `ds_jobs_transformed` DataFrame showed a **significant memory reduction** compared to the original `ds_jobs`.
-
-```python
-# Check memory savings
-print(ds_jobs.memory_usage(deep=True).sum())
-print(ds_jobs_transformed.memory_usage(deep=True).sum())
-```
-
-This leads to **faster model training** and **better scalability** for future predictive tasks.
-
----
-
 ## 📈 Example: Custom Categorical Ordering
 
 ```python
