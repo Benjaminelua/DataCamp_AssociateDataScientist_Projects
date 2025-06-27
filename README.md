@@ -114,7 +114,6 @@ git clone https://github.com/Benjaminelua/DataCamp_AssociateDataScientist_Projec
 # Open Jupyter Notebook
 jupyter notebook
 ```
-
 ---
 
 ## 👨‍💻 Author
