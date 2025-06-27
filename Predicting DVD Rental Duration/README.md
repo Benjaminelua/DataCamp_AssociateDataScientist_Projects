@@ -30,7 +30,6 @@ The target variable `rental_length_days` was engineered using the difference bet
 ---
 
 ## 🧪 Project Objectives
-
 - Perform exploratory data analysis and preprocessing
 - Engineer new features (`rental_length_days`, dummy variables for `special_features`)
 - Avoid data leakage when selecting model features
